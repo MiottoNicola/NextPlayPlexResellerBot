@@ -1,0 +1,35 @@
+[2025-08-13 09:59:15] [NEW] SYS: Log file created
+[2025-08-13 09:59:15] [OK] BOT: 131638922 e' stato inserito nel database[2025-08-21 15:17:37] [OK] BOT: 131638922 ha modificato il proprio username, database aggiornato
+[2025-08-22 18:23:12] [OK] BOT: 318975968 e' stato inserito nel database
+[2025-08-22 18:27:32] [WARNING] BOT: 0 non possiede un username
+[2025-08-22 18:48:36] [OK] BOT: 131638922 ha inserito un nuovo ordine 47
+[2025-08-22 18:51:57] [OK] BOT: 178441112 e' stato inserito nel database
+[2025-08-22 19:03:49] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 49
+[2025-08-22 19:11:50] [ADMIN] BOT: MrDzDm ha aperto il pannello admin
+[2025-08-23 10:02:55] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-23 12:06:36] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 50
+[2025-08-23 12:37:22] [ADMIN] BOT: MrDzDm ha aperto il pannello admin
+[2025-08-24 13:55:06] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-24 13:55:11] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-24 14:00:23] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-24 14:54:55] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 51
+[2025-08-24 14:54:57] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-24 14:55:01] [ADMIN] BOT: MrDzDm ha aperto il pannello admin
+[2025-08-24 15:11:15] [WARNING] BOT: 0 non possiede un username
+[2025-08-24 15:17:31] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 53
+[2025-08-24 15:19:15] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 55
+[2025-08-24 15:20:53] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 56
+[2025-08-24 15:21:37] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 58
+[2025-08-24 15:45:10] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 66
+[2025-08-24 16:00:15] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 67
+[2025-08-24 16:02:58] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 68
+[2025-08-24 16:06:36] [ADMIN] BOT: MrDzDm ha aperto il pannello admin
+[2025-08-24 16:06:38] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-24 19:34:30] [ADMIN] BOT: MrDzDm ha aperto il pannello admin
+[2025-08-25 12:35:56] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 69
+[2025-08-25 12:36:51] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 70
+[2025-08-25 12:45:53] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 71
+[2025-08-25 12:46:10] [ADMIN] BOT: Sonicmaster ha aperto il pannello admin
+[2025-08-25 14:18:02] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 73
+[2025-08-25 14:18:38] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 74
+[2025-08-25 14:18:57] [OK] BOT: Sonicmaster ha inserito un nuovo ordine 75
